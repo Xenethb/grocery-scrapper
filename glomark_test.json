@@ -1,0 +1,2324 @@
+[
+    {
+        "product_name": "Zesta Strong 390G",
+        "portion": "390G",
+        "price": "1260.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Dilmah Strong 400G",
+        "portion": "400G",
+        "price": "1350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ahmad Premium Blend Tea Leaf 400G",
+        "portion": "400G",
+        "price": "1340.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ahmad Premium Blend Tea Leaf 200G",
+        "portion": "200G",
+        "price": "680.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Laojee 400G",
+        "portion": "400G",
+        "price": "1140.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Laojee 200G",
+        "portion": "200G",
+        "price": "580.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ran Kahata Tea 390G",
+        "portion": "390G",
+        "price": "820.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ran Kahata Tea 100G",
+        "portion": "100G",
+        "price": "200.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Steuarts Tea Premium Bopf 100G",
+        "portion": "100G",
+        "price": "360.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Steuarts Tea Kahata Rahata 200G",
+        "portion": "200G",
+        "price": "400.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Steuarts Tea Rosa Kahata 400G",
+        "portion": "400G",
+        "price": "1140.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "T-Sips Golden Tips 50G",
+        "portion": "50G",
+        "price": "5400.00\n 7200.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "T-Sips Silver Tips 50G",
+        "portion": "50G",
+        "price": "4875.00\n 6500.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "T- Sips Premium Bopf Tea 200G",
+        "portion": "200G",
+        "price": "700.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "T-Sips Supreme Pure Ceylon Tea 50S 100G",
+        "portion": "100G",
+        "price": "650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Talawakelle Supiri Kahata 100G",
+        "portion": "100G",
+        "price": "310.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Talawakelle Supiri Kahata 200G",
+        "portion": "200G",
+        "price": "600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Watawala 50S Tea Bag 90G",
+        "portion": "90G",
+        "price": "550.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Watawala 25S Tea Bag 45G",
+        "portion": "45G",
+        "price": "300.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "WATAWALA TEA 100G",
+        "portion": "100G",
+        "price": "295.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ceylon Cinnamon With Ginger Cardamom Star Anise & Peppermint - 40G",
+        "portion": "40G",
+        "price": "2000.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ceylon Cinnamon With Peppermint & Holy Basil- 40G",
+        "portion": "40G",
+        "price": "2000.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Cinnamon Powder 100G",
+        "portion": "100G",
+        "price": "2950.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Cinnamon Quills 50G",
+        "portion": "50G",
+        "price": "2850.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ahmad Tea Earl Grey Tea Hinged Caddy 450G",
+        "portion": "450G",
+        "price": "3900.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fadna Tummy Herbal Tea 15S 30G",
+        "portion": "30G",
+        "price": "975.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fadna Shape Up Tea 15 S 30G",
+        "portion": "30G",
+        "price": "975.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fadna Green Premium With Gotukola Tea 18S 36G",
+        "portion": "36G",
+        "price": "480.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fadna Immunni Tea 10S 20G",
+        "portion": "20G",
+        "price": "480.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fadna Classic Diabe Tea 20s 40g",
+        "portion": "40g",
+        "price": "750.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ranlanda Green Tea 200G",
+        "portion": "200G",
+        "price": "990.00\n 1100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "T Sips Green Mint 20 Tb 40G",
+        "portion": "40G",
+        "price": "337.50\n 450.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "T-Sips Green Tea Apple 20Tb 40G",
+        "portion": "40G",
+        "price": "337.50\n 450.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ahmad Tea Chai Spice Tea 100G",
+        "portion": "100G",
+        "price": "592.50\n 790.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fadna Soursop With Ceylon Green Tea 20S 40G",
+        "portion": "40G",
+        "price": "660.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ranlanda Black Tea 400G",
+        "portion": "400G",
+        "price": "1490.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ranlanda Black Tea 200G",
+        "portion": "200G",
+        "price": "750.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Steuarts Ginger Black Tea 25 Tb",
+        "portion": "Tb",
+        "price": "680.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Steuarts Ginger Tea 100G",
+        "portion": "100G",
+        "price": "435.00\n 580.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Steuarts Masala Chai Tea 25 Bags",
+        "portion": "Bags",
+        "price": "562.50\n 750.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "T Sips Black Tea Cardamom 20Tb 40G",
+        "portion": "40G",
+        "price": "375.00\n 500.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "T Sips Black Tea Ginger 20Tb 40G",
+        "portion": "40G",
+        "price": "352.50\n 470.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "T-Sips Black Tea Lemon 20Tb 40G",
+        "portion": "40G",
+        "price": "300.00\n 400.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "T- Sips Strawberry Tea 20S 40G",
+        "portion": "40G",
+        "price": "300.00\n 400.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "T- Sips Cinnamon Tea 20S 40G",
+        "portion": "40G",
+        "price": "330.00\n 440.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "T- Sips Chai Masala 20S 40G",
+        "portion": "40G",
+        "price": "337.50\n 450.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "T-Sips Green Tea 20S 40G",
+        "portion": "40G",
+        "price": "315.00\n 420.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Elephant House Fito Mixed Fruit Nectar 1L",
+        "portion": "1L",
+        "price": "450.00\n 600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Elephant House Fito Orange Nectar 1L",
+        "portion": "1L",
+        "price": "450.00\n 600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Elephant House Fito Mango Nectar 1L",
+        "portion": "1L",
+        "price": "600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Elephant House Fito Mixed Fruit Nectar 200ML",
+        "portion": "200ML",
+        "price": "130.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Elephant House Fito Orange Nectar 200ML",
+        "portion": "200ML",
+        "price": "130.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Elephant House Fito Mango Nectar 200ML",
+        "portion": "200ML",
+        "price": "130.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "ELEPHANT HOUSE TWISTEE APPLE FRUIT JUICE WITH GREEN TEA 200ML",
+        "portion": "200ML",
+        "price": "130.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Ginger Lemonade Tonic Nectar 350Ml",
+        "portion": "350Ml",
+        "price": "550.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Raspberry Hibiscus Nectar 350Ml",
+        "portion": "350Ml",
+        "price": "550.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Lime Crush Nectar 350Ml",
+        "portion": "350Ml",
+        "price": "550.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Pani Dodang And Sea Salt 200Ml",
+        "portion": "200Ml",
+        "price": "700.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Yeti Vitamin Drink Orange Flavoured 350Ml",
+        "portion": "350Ml",
+        "price": "450.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Yeti Vitamin Drink Whale Of A Time Multi Fruit Flavoured 350Ml",
+        "portion": "350Ml",
+        "price": "450.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Colmans Orange Flavoured Drink Powder 120G",
+        "portion": "120G",
+        "price": "290.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Daily Milk Faluda 180Ml",
+        "portion": "180Ml",
+        "price": "140.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kotmale Iced Coffee 1000Ml",
+        "portion": "1000Ml",
+        "price": "600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kotmale Milk Faluda Flavoured 1L",
+        "portion": "1L",
+        "price": "600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "KOTMALE MILK VANILLA FLAVOURED 1L",
+        "portion": "1L",
+        "price": "450.00\n 600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kotmale Milk Chocolate Flavoured 1l",
+        "portion": "1l",
+        "price": "600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kotmale Fresh Milk Non Fat 1L",
+        "portion": "1L",
+        "price": "570.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "KOTMALE FRESH MILK FULL CREAM 1L",
+        "portion": "1L",
+        "price": "550.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "MALIBAN FRESH MILK UHT 1L",
+        "portion": "1L",
+        "price": "450.00\n 500.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Oatside Oatmilk Chocolate 1000Ml",
+        "portion": "1000Ml",
+        "price": "3000.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Orasi Soy Barista Version 1000Ml",
+        "portion": "1000Ml",
+        "price": "2250.00\n 3000.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Orasi Oat Barista Version 1000Ml",
+        "portion": "1000Ml",
+        "price": "2595.00\n 3460.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Pureharvest Organic Oat Milk Unsweetened 1L",
+        "portion": "1L",
+        "price": "2400.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "RICHLIFE MILK FALUDA FLAVOURED 180ML",
+        "portion": "180ML",
+        "price": "130.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Riso Scotti Orgnc Almond Soul Drink 1L",
+        "portion": "1L",
+        "price": "2640.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Riso Scotti Organic Soya Barista Drink 1L",
+        "portion": "1L",
+        "price": "2160.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Riso Scotti Oraganic Oat Soul Drink 1L",
+        "portion": "1L",
+        "price": "2640.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Riso Scotti Organic Almond Milk Unsweetened 1L",
+        "portion": "1L",
+        "price": "3390.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sudee Fresh Milk 1L",
+        "portion": "1L",
+        "price": "446.50\n 470.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Anchor Milk Powder Smart Pack 200G",
+        "portion": "200G",
+        "price": "600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Diamond Full Cream Milk Powder 1Kg",
+        "portion": "1Kg",
+        "price": "2625.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "DIAMOND FULL CREAM MILK POWDER 400G",
+        "portion": "400G",
+        "price": "1050.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Highland 'Gold' Milk Powder 400G",
+        "portion": "400G",
+        "price": "1150.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Zara Cardamom Flavoured Milk Tea Mix 200G",
+        "portion": "200G",
+        "price": "720.00\n 800.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Maliban Chocolate Powder Vitagen Tin 400G",
+        "portion": "400G",
+        "price": "2970.00\n 3300.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Maliban Non Fat Milk Powder 400G",
+        "portion": "400G",
+        "price": "1150.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "PELWATTA MILK POWDER NON FAT 400G",
+        "portion": "400G",
+        "price": "1062.00\n 1180.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Pure Dale Kirithe Zero 400G",
+        "portion": "400G",
+        "price": "1200.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Pure Dale Non - Fat 400G",
+        "portion": "400G",
+        "price": "1000.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Pure Dale Full Cream Pouch 400G",
+        "portion": "400G",
+        "price": "1100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Pure Dale Kirithe 1Kg",
+        "portion": "1Kg",
+        "price": "2200.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Pure Dale Kiirithe 400G",
+        "portion": "400G",
+        "price": "880.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Raththi Milk Powder Smart Pack 200G",
+        "portion": "200G",
+        "price": "600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Pure Dale Puredale Full Cream 1Kg",
+        "portion": "1Kg",
+        "price": "2750.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sooper Vegan Real Fruit Pineapple Soy Milk Powder 160G",
+        "portion": "160G",
+        "price": "1490.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sooper Vegan Mango Flavoured Soy Milk 160G",
+        "portion": "160G",
+        "price": "1490.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Star Gold Full Cream Milk Powder 400G",
+        "portion": "400G",
+        "price": "1200.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sustagen Nutritional Supplement Chocolate Flavoured Powder 400G",
+        "portion": "400G",
+        "price": "3900.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sustagen Nutritional Supplement Vanilla Flavoured Powder 400G",
+        "portion": "400G",
+        "price": "3900.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Viscafe Shong 3 In 1 Cardamom Tea 360 G",
+        "portion": "G",
+        "price": "1185.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "7 Up 2L",
+        "portion": "2L",
+        "price": "500.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "7 UP 1L",
+        "portion": "1L",
+        "price": "300.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sprite Pet 1.5L",
+        "portion": "1.5L",
+        "price": "420.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Coca Cola Pet 1.5L",
+        "portion": "1.5L",
+        "price": "420.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "SPRITE PET 1050ML",
+        "portion": "1050ML",
+        "price": "225.00\n 300.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Lion Ginger Beer Pet 1050Ml",
+        "portion": "1050Ml",
+        "price": "250.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "EVERVESS CLUB SODA 1L",
+        "portion": "1L",
+        "price": "170.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fanta Orange Pet 1050Ml",
+        "portion": "1050Ml",
+        "price": "300.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Mirnda 1L",
+        "portion": "1L",
+        "price": "300.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Mirinda 2L",
+        "portion": "2L",
+        "price": "500.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Mountain Dew 1L",
+        "portion": "1L",
+        "price": "300.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ole Cream Soda 1.5L",
+        "portion": "1.5L",
+        "price": "380.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Pepsi 1L",
+        "portion": "1L",
+        "price": "300.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Pepsi 2L",
+        "portion": "2L",
+        "price": "500.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "7 Up Can 300Ml",
+        "portion": "300Ml",
+        "price": "350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Cbc Peach Apricot & Plum Cooler 500 Ml",
+        "portion": "Ml",
+        "price": "980.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Cbc Lemon & Cucumber Cooler 500 Ml",
+        "portion": "Ml",
+        "price": "1280.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Cbc Cranberry Cooler 500 Ml",
+        "portion": "Ml",
+        "price": "880.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Cheers Orange Flavour 325Ml",
+        "portion": "325Ml",
+        "price": "450.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Coca Cola Vanilla Can 320Ml",
+        "portion": "320Ml",
+        "price": "550.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fanta Strawberry Softdrink Can 320Ml",
+        "portion": "320Ml",
+        "price": "495.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fanta Grape Softdrink Can 320Ml",
+        "portion": "320Ml",
+        "price": "495.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Mountain Dew Pitch Black 400Ml",
+        "portion": "400Ml",
+        "price": "595.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Mountain Dew Can 300Ml",
+        "portion": "300Ml",
+        "price": "350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ole Cream Soda 400Ml",
+        "portion": "400Ml",
+        "price": "150.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Pepsi Can 300Ml",
+        "portion": "300Ml",
+        "price": "350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "SUN CRUSH IMPERIAL TONIC WATER 300ML",
+        "portion": "300ML",
+        "price": "150.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Vida Salty Lychee Drink 325Ml",
+        "portion": "325Ml",
+        "price": "615.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "ALKAFRESH ALKALINE DRINKING WATER 5L",
+        "portion": "5L",
+        "price": "790.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Alkafresh Alkaline Drinking Water 500Ml",
+        "portion": "500Ml",
+        "price": "190.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "San Pelligrino Water 750Ml",
+        "portion": "750Ml",
+        "price": "1350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "CLOUDS SPRING WATER 800ML",
+        "portion": "800ML",
+        "price": "690.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "AQUAFINA BOTTLED DRINKING WATER 1L",
+        "portion": "1L",
+        "price": "100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "AQUAFINA BOTTLED DRINKING WATER 1.5L",
+        "portion": "1.5L",
+        "price": "130.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "AQUAFINA BOTTLED DRINKING WATER 500ML",
+        "portion": "500ML",
+        "price": "70.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "AQUAFRESH - LIVE SRI LANKA GLASS WATER BOTTLE 500ML",
+        "portion": "500ML",
+        "price": "360.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "AQUAFRESH BOTTLED DRINKING WATER CLASSIC 1.5L",
+        "portion": "1.5L",
+        "price": "130.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "AQUAFRESH BOTTLED DRINKING WATER 1L",
+        "portion": "1L",
+        "price": "100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "AQUAFRESH BOTTLED DRINKING WATER 500ML",
+        "portion": "500ML",
+        "price": "70.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "GLOMARK BOTTLED DRINKING WATER 5L",
+        "portion": "5L",
+        "price": "350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "GLOMARK BOTTLED DRINKING WATER 1.5L",
+        "portion": "1.5L",
+        "price": "130.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "GLOMARK BOTTLED DRINKING WATER 1L",
+        "portion": "1L",
+        "price": "100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "GLOMARK BOTTLED DRINKING WATER 500ML",
+        "portion": "500ML",
+        "price": "70.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Smak Pure Bottled Drinking Water 1500Ml",
+        "portion": "1500Ml",
+        "price": "130.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Smak Pure Bottled Drinking Water 1000Ml",
+        "portion": "1000Ml",
+        "price": "100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Smak Pure Bottled Drinking Water 500Ml",
+        "portion": "500Ml",
+        "price": "70.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ceylon Coffee Rosred Beans 125G",
+        "portion": "125G",
+        "price": "1550.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Indo Creamer Pack 200G",
+        "portion": "200G",
+        "price": "795.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Indo Creamer Jar 100G",
+        "portion": "100G",
+        "price": "595.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nestle Coffee Mate 50 Sticks Pack 250G",
+        "portion": "250G",
+        "price": "2150.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Viscafe Shong Ice Coffee Base Mix 360G",
+        "portion": "360G",
+        "price": "1065.00\n 1420.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Aik Cheong Chocolate Pistachio Drink",
+        "portion": "Drink",
+        "price": "2850.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Aik Cheong Chocolate Hazelnut Drink 456G",
+        "portion": "456G",
+        "price": "2850.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Aik Cheong Chocolate Mint Drink 456G",
+        "portion": "456G",
+        "price": "2850.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Aik Cheong 3 In 1 Cappuccino 306G",
+        "portion": "306G",
+        "price": "2650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Aik Cheong 3 In 1 Caramel Macchiato 300G",
+        "portion": "300G",
+        "price": "2650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Anchor Caramel Latte 35G",
+        "portion": "35G",
+        "price": "130.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ceylon Coffee Plunger 125G",
+        "portion": "125G",
+        "price": "1550.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Indo Caf\u00c3\u00a9 Original Blend Pack 50G",
+        "portion": "50G",
+        "price": "795.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Indo Caf\u00c3\u00a9 Original Blend Jar 50G",
+        "portion": "50G",
+        "price": "899.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "ISLAND COFFEE VANILLA 100G",
+        "portion": "100G",
+        "price": "470.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "ISLAND COFFEE REGULAR 100G",
+        "portion": "100G",
+        "price": "420.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Zara Milk Coffee Mix 200G",
+        "portion": "200G",
+        "price": "540.00\n 600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Khao Shong Agglomerated Instant Coffee Mixture Bottle 100G",
+        "portion": "100G",
+        "price": "1477.50\n 1970.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Khao Shong Instant Coffee With Caramel Mixture Bottle 50G",
+        "portion": "50G",
+        "price": "1025.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Khao Shong Agglomerated Instant Coffee Pouch 45G",
+        "portion": "45G",
+        "price": "915.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Khao Shong 3 In 1 Espresso Instant Coffee 56G",
+        "portion": "56G",
+        "price": "715.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Khao Shong Agglomerated Instant Coffee Bottle 100G",
+        "portion": "100G",
+        "price": "2050.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Khao Shong Agglomerated Instant Coffee Bottle 50G",
+        "portion": "50G",
+        "price": "1230.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Khao Shong 3 In 1 Super Rich Instant Coffee 60G",
+        "portion": "60G",
+        "price": "675.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Khao Shong 3 In 1 Mocha Instant Coffee 17G 10S 170G",
+        "portion": "170G",
+        "price": "1465.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Khao Shong 3 In 1 Cappuccino Instant Coffee 65.2G",
+        "portion": "65.2G",
+        "price": "920.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kopiko 3 In 1 Creamy Latte 480G",
+        "portion": "480G",
+        "price": "2750.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kopiko Macchiato 3 In 1 480G",
+        "portion": "480G",
+        "price": "2550.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Mountain Stag Coffee Ground Classic 100G",
+        "portion": "100G",
+        "price": "950.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Mountain Stag Coffee Ground Gold 100G",
+        "portion": "100G",
+        "price": "1280.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "NESCAFE CLASSIC JAR 50G",
+        "portion": "50G",
+        "price": "1100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "NESCAFE 3IN1 MILK COFFEE MIX SACHET 10S 180G",
+        "portion": "180G",
+        "price": "700.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nescafe Classic Bag In Box 50G",
+        "portion": "50G",
+        "price": "940.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nescafe Coffee Classic Jar 200G",
+        "portion": "200G",
+        "price": "3600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nescafe Gold 3 In 1 Creamy Latte 372G",
+        "portion": "372G",
+        "price": "2995.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nescafe Latte Mocha 15S 465G",
+        "portion": "465G",
+        "price": "2742.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nescafe Coffee Gold Espresso 100% Pure Arabica 95G",
+        "portion": "95G",
+        "price": "4200.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nescafe Gold Decafe Strength 100G",
+        "portion": "100G",
+        "price": "4200.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nestle Coffee Mate Hazelnut 425G",
+        "portion": "425G",
+        "price": "3295.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nestle Coffee Mate French Vanilla 425G",
+        "portion": "425G",
+        "price": "3295.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nestle Nestum Original Cereal Drink 15Sachets 420G",
+        "portion": "420G",
+        "price": "2340.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Old Town 3 In 1 30% Less Sugar 525G",
+        "portion": "525G",
+        "price": "2995.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Old Town Coffee With Natural Cane Sugar 540G",
+        "portion": "540G",
+        "price": "2995.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Old Town Classic Can 240Ml",
+        "portion": "240Ml",
+        "price": "575.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Old Town Coffee Can - Hazelnut 240Ml",
+        "portion": "240Ml",
+        "price": "575.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Old Town Cofee Classic Flavour 570G",
+        "portion": "570G",
+        "price": "2995.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Old Town White Coffee 15S 570G",
+        "portion": "570G",
+        "price": "2995.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Pure Dale Milk Coffee 200G",
+        "portion": "200G",
+        "price": "790.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Soul Instant Coffee - 50G",
+        "portion": "50G",
+        "price": "885.00\n 1180.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Soul Daily House Blend 100G",
+        "portion": "100G",
+        "price": "980.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Steuarts James Coffee 50G",
+        "portion": "50G",
+        "price": "230.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Steuarts James Coffee 100G",
+        "portion": "100G",
+        "price": "405.00\n 450.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Toscana 100% Ceylon Cf Arabica Powder 100G",
+        "portion": "100G",
+        "price": "1100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Viscafe Shong 3 In 1 Milk Coffee Mix 360G",
+        "portion": "360G",
+        "price": "1145.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Barbican Apple Drink 250Ml",
+        "portion": "250Ml",
+        "price": "785.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Barbican Non Alcoholic Apple Beer 330Ml",
+        "portion": "330Ml",
+        "price": "330.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Barbican Non Alcoholic Beer Pomegranate 330Ml",
+        "portion": "330Ml",
+        "price": "330.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Edenvale Shiraz Red Wine Alcohol Removed 750Ml",
+        "portion": "750Ml",
+        "price": "5300.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Edenvale Sauvignon Blanc White Wine Alcohol Removed 750Ml",
+        "portion": "750Ml",
+        "price": "5300.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "May Sparkling Non Alcho Red Grape 75Oml",
+        "portion": "75Oml",
+        "price": "3130.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Aik Cheong Chocolate Drink 480G",
+        "portion": "480G",
+        "price": "2850.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Anchor Hot Chocolate 400G",
+        "portion": "400G",
+        "price": "1250.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Cadbury Drinking Powder 500G",
+        "portion": "500G",
+        "price": "3850.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Cadbury Hot Chocolate Drink 3 In 1 15S 450G",
+        "portion": "450G",
+        "price": "2950.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Galaxy Light Instant Hot Chococolate 210G",
+        "portion": "210G",
+        "price": "3650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nesquik Chocolate Drink 330G",
+        "portion": "330G",
+        "price": "1550.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nesquick Chocolate Flavour 300G",
+        "portion": "300G",
+        "price": "2795.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kitkat Hot Chocolate Drink 330G",
+        "portion": "330G",
+        "price": "2950.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nestle Milo 3 In 1 Drink",
+        "portion": "Drink",
+        "price": "2850.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ovaltine Soft Pack Chocolate 340G",
+        "portion": "340G",
+        "price": "1800.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Soul Chocolate Milk Drink 200G",
+        "portion": "200G",
+        "price": "1132.50\n 1510.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Viscafe Shong Hot Chocolate Mix 360G",
+        "portion": "360G",
+        "price": "1001.25\n 1335.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "100Plus Active (A) Can 300Ml",
+        "portion": "300Ml",
+        "price": "530.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "100Plus Lemon & Lime Drink-Pet 500Ml",
+        "portion": "500Ml",
+        "price": "585.00\n 650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "100Plus Active Replenish Drink-Pet 500Ml",
+        "portion": "500Ml",
+        "price": "765.00\n 850.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "100Plus Zero Drink-Pet 500Ml",
+        "portion": "500Ml",
+        "price": "487.50\n 650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "100Plus Original Drink- Pet 500Ml",
+        "portion": "500Ml",
+        "price": "585.00\n 650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "100 Plus Lemon & Lime Drink 325Ml",
+        "portion": "325Ml",
+        "price": "530.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Hype\u00c2\u00a0Bam Lemon Lime Energy Drink 250Ml",
+        "portion": "250Ml",
+        "price": "350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Hype\u00c2\u00a0Bam Apple Berry Energy Drink 250Ml",
+        "portion": "250Ml",
+        "price": "350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Hype\u00c2\u00a0Bam Original Energy Drink 250Ml",
+        "portion": "250Ml",
+        "price": "350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ride Glow Apple 250Ml",
+        "portion": "250Ml",
+        "price": "262.50\n 350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ride Sugar Free 250Ml",
+        "portion": "250Ml",
+        "price": "262.50\n 350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kist Ride Red Berry 250Ml",
+        "portion": "250Ml",
+        "price": "350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "KIST RIDE CLASSIC FORMULATED CAFFEINATED BEVERAGE 250ML",
+        "portion": "250ML",
+        "price": "262.50\n 350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Lionmax Powder Cafinated Bevarage-Classic 4G",
+        "portion": "4G",
+        "price": "590.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Shak Tea Energy Drink 250Ml",
+        "portion": "250Ml",
+        "price": "325.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Spinner Booster Shot Multi Vitamins 180Ml",
+        "portion": "180Ml",
+        "price": "180.00\n 200.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Spinner Booster Shot Guarana Vitamins 180Ml",
+        "portion": "180Ml",
+        "price": "180.00\n 200.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Spinner Sugar Free 250Ml",
+        "portion": "250Ml",
+        "price": "350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Spinner Caffeinated Drink 250Ml",
+        "portion": "250Ml",
+        "price": "350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Turbo Nitro Ice Spice 250Ml",
+        "portion": "250Ml",
+        "price": "350.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Turbo Nitro Zero 250Ml",
+        "portion": "250Ml",
+        "price": "500.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Turbo Nitro Classic 250Ml",
+        "portion": "250Ml",
+        "price": "300.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Turbo Nitro Premium 250Ml",
+        "portion": "250Ml",
+        "price": "500.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Edinborough Flavored Rose Syrup 750Ml",
+        "portion": "750Ml",
+        "price": "650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Edinborough Nelli Syrup 750Ml",
+        "portion": "750Ml",
+        "price": "895.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "KIST QUICK APPLE CONCENTRATE 330ML",
+        "portion": "330ML",
+        "price": "450.00\n 600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "KIST QUICK ORANGE CONCENTRATE 330ML",
+        "portion": "330ML",
+        "price": "660.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Md Mixed Fruit Cordial 400Ml",
+        "portion": "400Ml",
+        "price": "500.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Md Mango Cordial 400Ml",
+        "portion": "400Ml",
+        "price": "450.00\n 500.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Md Passion Fruit Cordial 750Ml",
+        "portion": "750Ml",
+        "price": "1000.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Md Mango Cordial 750Ml",
+        "portion": "750Ml",
+        "price": "800.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "MD MIXED FRUIT CORDIAL 750ML",
+        "portion": "750ML",
+        "price": "720.00\n 800.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Md Artificial Sherbet Syrup 400Ml",
+        "portion": "400Ml",
+        "price": "585.00\n 650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Loli Tails Instant Drink Powder Mixed Fruit 200G",
+        "portion": "200G",
+        "price": "430.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Loli Tails Instant Drink Powder Faluda 200G",
+        "portion": "200G",
+        "price": "430.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Loli Tails Instant Drink Powder Lime 200G",
+        "portion": "200G",
+        "price": "430.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Loli Tails Instant Drink Powder Mango 200G",
+        "portion": "200G",
+        "price": "430.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Loli Tails Instant Drink Powder Orange 200G",
+        "portion": "200G",
+        "price": "430.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Viscafe Shong Faluda Mix 360G",
+        "portion": "360G",
+        "price": "742.50\n 990.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Heladiv Ice Tea Promo Pack 350Ml*2",
+        "portion": "350Ml*2",
+        "price": "1960.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Heladiv Ice Tea Syrup Orange 350Ml",
+        "portion": "350Ml",
+        "price": "735.00\n 980.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Heladiv Ice Tea Syrup Lychee 350Ml",
+        "portion": "350Ml",
+        "price": "980.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Heladiv Ice Tea Blueberry Syrup 350Ml",
+        "portion": "350Ml",
+        "price": "980.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Heladiv Ice Tea Strawberry Syrup 350Ml",
+        "portion": "350Ml",
+        "price": "980.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Heladiv Ice Tea Peach Syrup 350Ml",
+        "portion": "350Ml",
+        "price": "980.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Heladiv Ice Tea Lemon Syrup 350Ml",
+        "portion": "350Ml",
+        "price": "980.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Bfresh Mango Passionade 1L",
+        "portion": "1L",
+        "price": "1750.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Elephant House Twistee Apple Juice With Green Tea 1L",
+        "portion": "1L",
+        "price": "375.00\n 500.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fan Pomegranate Nectar 1000Ml",
+        "portion": "1000Ml",
+        "price": "1580.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fan Cranberry Drink 1000Ml",
+        "portion": "1000Ml",
+        "price": "1650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fan Orange Juice 1000Ml",
+        "portion": "1000Ml",
+        "price": "1720.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fan Apple Juice 1000Ml",
+        "portion": "1000Ml",
+        "price": "1490.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fan Pinapple 100% Natural Juice 1L",
+        "portion": "1L",
+        "price": "1720.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fan Grapefruit 100% Natural Jiuce 1L",
+        "portion": "1L",
+        "price": "1450.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Fan Red Grape 100% Natural Juice 1L",
+        "portion": "1L",
+        "price": "1720.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Frutail Cranberry Drink 1L",
+        "portion": "1L",
+        "price": "1501.00\n 1580.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Frutail Cocktail Juice 1L",
+        "portion": "1L",
+        "price": "2007.00\n 2230.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Frutail Pineapple Juice 1L",
+        "portion": "1L",
+        "price": "1565.20\n 1720.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Frutail Apple Juice 1L",
+        "portion": "1L",
+        "price": "1490.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Frutail Orange Juice 1L",
+        "portion": "1L",
+        "price": "1605.00\n 2140.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Bebo Soursop Juice 320Ml",
+        "portion": "320Ml",
+        "price": "600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Bebo Mango Juice 320Ml",
+        "portion": "320Ml",
+        "price": "540.00\n 600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Bebo Pina- Colada Juice 320Ml",
+        "portion": "320Ml",
+        "price": "540.00\n 600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Bebo Lychee Juice 320Ml",
+        "portion": "320Ml",
+        "price": "600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Bebo Guava Juice 320Ml",
+        "portion": "320Ml",
+        "price": "600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Bebo Apple Juice 320Ml",
+        "portion": "320Ml",
+        "price": "600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "KIST ABSOLUTE APPLE JUICE 1L",
+        "portion": "1L",
+        "price": "1100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Lacnor Orange Juice 1L",
+        "portion": "1L",
+        "price": "1440.00\n 1600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Lacnor Pineapple Juice 1L",
+        "portion": "1L",
+        "price": "1440.00\n 1600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Lacnor Apple Juice 1L",
+        "portion": "1L",
+        "price": "1305.00\n 1450.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Lacnor Grape Juice 1L",
+        "portion": "1L",
+        "price": "1440.00\n 1600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Marigold 100% Apple Juice 1L",
+        "portion": "1L",
+        "price": "1750.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Marigold 100% Orange Juice 1L",
+        "portion": "1L",
+        "price": "1750.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ocean Spray Cranberry Juice 1L",
+        "portion": "1L",
+        "price": "1485.00\n 1650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "SOZO CRANBERRY HIBISCUS 1L",
+        "portion": "1L",
+        "price": "1100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "SOZO PEACH AND MANGO ICED TEA 1L",
+        "portion": "1L",
+        "price": "1100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Blackcurrant & Hibiscus Juice 1L",
+        "portion": "1L",
+        "price": "1100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Lime Crush Juice 1L",
+        "portion": "1L",
+        "price": "1100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Ginger Lemonade Tonic Juice 1L",
+        "portion": "1L",
+        "price": "1100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Strawberry Lemonade Juice 1L",
+        "portion": "1L",
+        "price": "1600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Passionfruit & Narang Fruit Juice 1L",
+        "portion": "1L",
+        "price": "1600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Mango & Passionfruit Juice 1L",
+        "portion": "1L",
+        "price": "1600.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sterilgarda 100% Pear Juice 1L",
+        "portion": "1L",
+        "price": "1780.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sterilgarda 100% Peach Juice 1L",
+        "portion": "1L",
+        "price": "1780.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sterilgarda 100% Orange Juice 1L",
+        "portion": "1L",
+        "price": "2185.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sterilgarda 100% Apricot Juice 1L",
+        "portion": "1L",
+        "price": "1780.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Vita Coco Coconut Drink 1L",
+        "portion": "1L",
+        "price": "760.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nestle Nestum Honey 3 In 1 Cereal Drink 15S 420G",
+        "portion": "420G",
+        "price": "2340.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Quaker 3In 1 Matcha Green Tea Oat Drink",
+        "portion": "Drink",
+        "price": "2340.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Quaker Chocolate 3 In 1 Oat Cereal Drink 15S 420G",
+        "portion": "420G",
+        "price": "2340.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Quaker Vanilla 3 In 1 Oat Cereal Drink 15S 420G",
+        "portion": "420G",
+        "price": "2340.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Quaker Berry Burst 3 In 1 Oat Cereal Drink 15S 450G",
+        "portion": "450G",
+        "price": "2340.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Horlicks Classic Malt Drink",
+        "portion": "Drink",
+        "price": "2250.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Horlicks Malt Drink 350G",
+        "portion": "350G",
+        "price": "1100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Horlicks Malt Drink 175G",
+        "portion": "175G",
+        "price": "560.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Viva Org Pouch 600G * Free Canister",
+        "portion": "Canister",
+        "price": "1120.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "VIVA MALTED FOOD DRINK ORIGINAL POUCH 600G",
+        "portion": "600G",
+        "price": "1120.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Bfresh Diwul Kiiri Woodapple Fruit Juice 200Ml",
+        "portion": "200Ml",
+        "price": "430.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Bfresh Chilli Pineapple Fruit Juice 200Ml",
+        "portion": "200Ml",
+        "price": "450.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Bfresh Soursop Punch Fruit Juice 200Ml",
+        "portion": "200Ml",
+        "price": "430.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Bfresh Ambarella Fruit Juice 200Ml",
+        "portion": "200Ml",
+        "price": "430.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Bfresh Narang Fruit Juice 200Ml",
+        "portion": "200Ml",
+        "price": "450.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Bfresh Passion Delight Fruit Juice 370Ml",
+        "portion": "370Ml",
+        "price": "650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ribena Blackcurrant & Strawberry Drink 330Ml",
+        "portion": "330Ml",
+        "price": "650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Tamarind 200Ml",
+        "portion": "200Ml",
+        "price": "550.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Mango & Passion Fruit Juice 200Ml",
+        "portion": "200Ml",
+        "price": "700.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Greenday Waykup Caf\u00c3\u00a9 Latte 280Ml",
+        "portion": "280Ml",
+        "price": "800.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kopiko 78\u00c2\u00b0C Coffee Latte 240Ml",
+        "portion": "240Ml",
+        "price": "550.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "KOTMALE ICED COFFEE 180ML",
+        "portion": "180ML",
+        "price": "140.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nescafe Kopi Mocha Iced Coffee 240Ml",
+        "portion": "240Ml",
+        "price": "490.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nescafe Original Iced Coffee 240Ml",
+        "portion": "240Ml",
+        "price": "490.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Soul Coffee Hazelnut Cold Brew Iced Coffee 200Ml",
+        "portion": "200Ml",
+        "price": "435.00\n 580.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Soul Coffee Chocolate Cold Brew Iced Coffee 200Ml",
+        "portion": "200Ml",
+        "price": "435.00\n 580.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Soul Coffee Latte Cold Brew Iced Coffee 200Ml",
+        "portion": "200Ml",
+        "price": "435.00\n 580.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Marigold Less Sugar Apple Drink 250Ml",
+        "portion": "250Ml",
+        "price": "395.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Marigold Less Sugar Lychee Drink 250Ml",
+        "portion": "250Ml",
+        "price": "395.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Dilmah Iced Tea Ginger Rose And Almond 250 Ml",
+        "portion": "Ml",
+        "price": "230.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "DILMAH ICED TEA GREEN TEA LYCHEE FLAVOUR 250ML",
+        "portion": "250ML",
+        "price": "230.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "DILMAH ICED TEA PEACH FLAVOUR 250ML",
+        "portion": "250ML",
+        "price": "230.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "DILMAH MANGO FLAVOURED ICED TEA 250ML",
+        "portion": "250ML",
+        "price": "230.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Dilmah Mixed Berry Flavoured Iced Tea 250Ml",
+        "portion": "250Ml",
+        "price": "230.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Heladiv Ice Tea Bleuberry 750Ml",
+        "portion": "750Ml",
+        "price": "1500.00\n 2000.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kico Guava 200Ml",
+        "portion": "200Ml",
+        "price": "160.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kico Pineapple 200Ml",
+        "portion": "200Ml",
+        "price": "160.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kico King Cocount Water 200Ml",
+        "portion": "200Ml",
+        "price": "150.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ra La King Coconut Water 370Ml",
+        "portion": "370Ml",
+        "price": "495.00\n 550.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Anchor Newdale Milkshake Chocolate 180Ml",
+        "portion": "180Ml",
+        "price": "250.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Anchor Newdale Milkshake Vanilla 180Ml",
+        "portion": "180Ml",
+        "price": "250.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "DAILY ACTIV MALT CHOCOLATE FOOD DRINK 180ML",
+        "portion": "180ML",
+        "price": "126.00\n 140.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Dutch Lady Chocolate Milk 200Ml",
+        "portion": "200Ml",
+        "price": "450.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Galaxy Vegan Silky & Smooth Drink 250G",
+        "portion": "250G",
+        "price": "3650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kotmale Strawberry Milk 170Ml",
+        "portion": "170Ml",
+        "price": "100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "KOTMALE CHOCOLATE MILK 170ML",
+        "portion": "170ML",
+        "price": "100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "KOTMALE VANILLA POUCH 170ML",
+        "portion": "170ML",
+        "price": "100.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kotmale Chocolate Flavoured Buy 6 Save Rs.35 180Ml",
+        "portion": "180Ml",
+        "price": "525.00\n 700.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kotmale Vanilla Flavoured Buy 6 Save Rs.35 180Ml",
+        "portion": "180Ml",
+        "price": "525.00\n 700.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Kotmale Milk Faluda Flavoured 180Ml",
+        "portion": "180Ml",
+        "price": "140.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "KOTMALE MILK VANILLA FLAVOURED BRICK 180ML",
+        "portion": "180ML",
+        "price": "140.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "KOTMALE MILK CHOX BRICK 180ML",
+        "portion": "180ML",
+        "price": "140.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "KOTMALE MILK CHOCOLATE FLAVOURED BRICK 180ML",
+        "portion": "180ML",
+        "price": "140.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "KOTMALE FRESH MILK FULL CREAM 180ML",
+        "portion": "180ML",
+        "price": "140.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nootz Coconut Passion Smoothie 180Ml",
+        "portion": "180Ml",
+        "price": "465.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nootz Coconut Papaya Smoothie 180Ml",
+        "portion": "180Ml",
+        "price": "296.25\n 395.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nootz C/Nut Pineapple Smoothie 180Ml",
+        "portion": "180Ml",
+        "price": "346.50\n 495.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Nootz Coconut Mango Smoothie 180Ml",
+        "portion": "180Ml",
+        "price": "333.75\n 445.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Apluss Basil Seed Honey Drink 290Ml",
+        "portion": "290Ml",
+        "price": "595.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Apluss Basil Seed White Grape Drink 290Ml",
+        "portion": "290Ml",
+        "price": "595.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Minute Maid Refresh Orange Fruit Drink 300Ml",
+        "portion": "300Ml",
+        "price": "495.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Pran Basil Seed Lychee Drink 290Ml",
+        "portion": "290Ml",
+        "price": "595.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Pran Basil Seed Mango Drink 290Ml",
+        "portion": "290Ml",
+        "price": "595.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Raw Press Mango 280Ml",
+        "portion": "280Ml",
+        "price": "250.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Raw Press Butterfly Pea Blue Aloe Vera 280Ml",
+        "portion": "280Ml",
+        "price": "250.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Raw Press Mixed Fruit 280Ml",
+        "portion": "280Ml",
+        "price": "250.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Raw Press Sour Soup 280Ml",
+        "portion": "280Ml",
+        "price": "250.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Ribena Blackcurrant Fruit Drink 330Ml",
+        "portion": "330Ml",
+        "price": "650.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Smak Mixed Fruit Drink 250Ml",
+        "portion": "250Ml",
+        "price": "230.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Smak Sherbet Drink Can 250Ml",
+        "portion": "250Ml",
+        "price": "230.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Smak Chocolate Drink Can 250Ml",
+        "portion": "250Ml",
+        "price": "230.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Smak Mango Nectar Can 250Ml",
+        "portion": "250Ml",
+        "price": "230.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Blueberry Lime 330Ml",
+        "portion": "330Ml",
+        "price": "300.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Mandarin Ginger Soda 330Ml Can",
+        "portion": "Can",
+        "price": "300.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sozo Salted Ginger Lime Soda 330Ml",
+        "portion": "330Ml",
+        "price": "300.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sun Crush Imperial Bitter Lemon Sparkling Drink300Ml",
+        "portion": "Drink300Ml",
+        "price": "150.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sun Crush Orange Sparkling Drink 250Ml",
+        "portion": "250Ml",
+        "price": "150.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sun Crush Green Apple Sparkling Drink 250Ml",
+        "portion": "250Ml",
+        "price": "150.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Sun Crush Red Apple Sparkling Drink 250Ml",
+        "portion": "250Ml",
+        "price": "150.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Teaser Mixed Berry 250Ml",
+        "portion": "250Ml",
+        "price": "290.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Vita Coco Coconut Drink 330Ml",
+        "portion": "330Ml",
+        "price": "310.00",
+        "store": "Glomark"
+    },
+    {
+        "product_name": "Yeti Collagen Rose+Berry Flavoured 200Ml",
+        "portion": "200Ml",
+        "price": "400.00",
+        "store": "Glomark"
+    }
+]
