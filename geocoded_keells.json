@@ -1,0 +1,870 @@
+[
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Battaramulla",
+        "latitude": 6.9021809,
+        "longitude": 79.9195776,
+        "address": "No. 1024 and 1027, Pannipitiya Road, Battaramulla"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Matara Broadway",
+        "latitude": 5.947822,
+        "longitude": 80.5482919,
+        "address": "No. 66, Kumarathunga Mawatha, Matara"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Biyagama",
+        "latitude": 6.9422683,
+        "longitude": 79.9884706,
+        "address": "No. 306, New Kandy Road, Biyagama"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kochchikade",
+        "latitude": 6.9432825,
+        "longitude": 79.8549705,
+        "address": "No. 21, Negombo Road, Kochchikade"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Matale",
+        "latitude": 7.4593708,
+        "longitude": 80.6178915,
+        "address": "No. 11, Nagolla Road, Matale"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Negombo Kurana",
+        "latitude": 7.2094282,
+        "longitude": 79.833117,
+        "address": "No. 800, 2nd Kurana, Colombo Road, Negombo"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Ambalangoda",
+        "latitude": 6.2389059,
+        "longitude": 80.0541466,
+        "address": "No. 435, Galle Road, Ambalangoda"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Arangala",
+        "latitude": 6.8772464,
+        "longitude": 79.9899292,
+        "address": "No. 730, Malabe Road, Arangala, Athurugiriya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Athurugiriya 2",
+        "latitude": 6.8772464,
+        "longitude": 79.9899292,
+        "address": "No. 175/12, Malambe Road, Athurugiriya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Attidiya 2",
+        "latitude": 6.8512785,
+        "longitude": 79.8659769,
+        "address": "No. 485A, Attidiya Road, Bellanthota, Dehiwala"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Avissawella",
+        "latitude": 6.9521206,
+        "longitude": 80.2128586,
+        "address": "No. 57, Kiriwandala, Avissawella"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Bandaragama",
+        "latitude": 6.7077058,
+        "longitude": 80.0150916,
+        "address": "No. 50, Panadura Road, Bandaragama"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Beruwala",
+        "latitude": 6.4863744,
+        "longitude": 79.9832495,
+        "address": "No. 167, Galle Road, Beruwala"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Boralesgamuwa",
+        "latitude": 6.8410598,
+        "longitude": 79.9017028,
+        "address": "No. 105/1, Kesbewa Road, Katuwella, Boralesgamuwa"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Chilaw",
+        "latitude": 7.5763374,
+        "longitude": 79.79589,
+        "address": "No. 112, Puttalam road, Chilaw"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Crescat",
+        "latitude": 6.9388614,
+        "longitude": 79.8542005,
+        "address": "No. 89/B, 25, Crescat Boulevard, Galle Road, Colombo 03"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Darley Road",
+        "latitude": 6.9101096,
+        "longitude": 79.8531129,
+        "address": "No. 460, T.B. Jaya Mawatha, Colombo 10"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Dehiwala",
+        "latitude": 6.8512785,
+        "longitude": 79.8659769,
+        "address": "No. 268, Sir D.B. Jayathilake Mawatha, (Hill Street), Dehiwala"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Delpe",
+        "latitude": 7.1617138,
+        "longitude": 80.5743643,
+        "address": "No. 324, Kadawatha Road, Delpe Junction, Mahara"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Edmonton",
+        "latitude": 6.9388614,
+        "longitude": 79.8542005,
+        "address": "No. 25, Edmonton Road, Colombo - 5"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Eheliyagoda",
+        "latitude": 6.8533967,
+        "longitude": 80.2616052,
+        "address": "No. 34, Rathnapura Road, Eheliyagoda"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Eldeniya",
+        "latitude": 7.002137,
+        "longitude": 79.9512274,
+        "address": "No. 434, Kandy Road, Ranmuthugala, Kadawatha"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Embilipitiya",
+        "latitude": 6.3340647,
+        "longitude": 80.8538325,
+        "address": "No. 248, Pallegama, Embilipitiya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Embuldeniya",
+        "latitude": 6.8692084,
+        "longitude": 79.9080887,
+        "address": "No. 303, Old Kottawa Road, Embuldeniya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Enderamulla",
+        "latitude": 6.9898705,
+        "longitude": 79.8927094,
+        "address": "No. 75A, Enderamulla, Wattala"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Galle 2",
+        "latitude": 6.0328139,
+        "longitude": 80.214955,
+        "address": "No. 465, Wackwella Road, Kalegana, Galle"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Gampola",
+        "latitude": 7.1636487,
+        "longitude": 80.5702744,
+        "address": "No. 27/2, Nawalapitiya Road, Gampola"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Gamsaba",
+        "latitude": 6.8681223,
+        "longitude": 79.8922899,
+        "address": "No. 315, High level road, Gangodawila, Nugegoda"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Gorakana",
+        "latitude": 6.7667869,
+        "longitude": 79.8940726,
+        "address": "No. 290, Old Galle Road, Gorakana, Panadura"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Gothatuwa",
+        "latitude": 6.9224212,
+        "longitude": 79.9154562,
+        "address": "No. 215, IDH Road, Gothatuwa"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Havelock Road",
+        "latitude": 6.9388614,
+        "longitude": 79.8542005,
+        "address": "No. 228, Havelock Road, Colombo 05"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Hokandara",
+        "latitude": 6.8771754,
+        "longitude": 79.9282462,
+        "address": "No. 188, Hokandara Road, Thalawathugoda"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Ja Ela 3",
+        "latitude": 7.0438859,
+        "longitude": 79.8974145,
+        "address": "No. 236, Negombo Road, Weligampitiya, Ja Ela"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Ja Ela 2",
+        "latitude": 7.0793775,
+        "longitude": 79.8907632,
+        "address": "No. 134 Minuwangoda Road, Kanuwana, Ja-Ela"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kalubowila",
+        "latitude": 6.8637023,
+        "longitude": 79.8684372,
+        "address": "No. 53, Hospital Road, Kalubowila, Dehiwala"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kaluthara",
+        "latitude": 6.5683248,
+        "longitude": 79.9602525,
+        "address": "No. 735, Galle Road, Wettumakada, Kauthara South, Kaluthara"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kandy",
+        "latitude": 7.2931208,
+        "longitude": 80.6350358,
+        "address": "City Centre Complex, Level 1, L1-14, Kandy (Pvt) Ltd, Kandy"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kandy 3",
+        "latitude": 7.1973296,
+        "longitude": 80.6703661,
+        "address": "No. 927, Peradeniya Road, Kandy"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kandy 2",
+        "latitude": 7.2931208,
+        "longitude": 80.6350358,
+        "address": "No. 489, William Gopallawa Mawatha, Kandy"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kapuwatta",
+        "latitude": 7.0793775,
+        "longitude": 79.8907632,
+        "address": "No. 525, Negombo Road, Kapuwatta, Ja Ela"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Karapitiya",
+        "latitude": 6.0670789,
+        "longitude": 80.2257615,
+        "address": "No. 54, Hirimura Cross Road, Karapitiya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Katugastota",
+        "latitude": 7.2976952,
+        "longitude": 80.6102319,
+        "address": "No. 256, Katugastota Road, Kandy"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kegalle",
+        "latitude": 7.1134446,
+        "longitude": 80.3217395,
+        "address": "No. 461, Kandy Road, Kegalle"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kelaniya",
+        "latitude": 6.9501246,
+        "longitude": 79.9172715,
+        "address": "No: 690, Biyagama Road, Pilapitiya, Kelaniya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kesbewa 2",
+        "latitude": 6.7953272,
+        "longitude": 79.9412127,
+        "address": "No. 1059, Horana Road, Kesbewa"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kotte",
+        "latitude": 6.8900423,
+        "longitude": 79.9032635,
+        "address": "No. 581, Kotte Road, Pitakotte"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kurunegala 3",
+        "latitude": 7.4879264,
+        "longitude": 80.3635553,
+        "address": "No. 192, Puttalam Road, Kurunegala"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Mahabage 2",
+        "latitude": 7.0226597,
+        "longitude": 79.9009421,
+        "address": "No. 812, Negombo Road, Mahabage"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Maharagama",
+        "latitude": 6.848064,
+        "longitude": 79.9254789,
+        "address": "No. 226, High Level Road, Maharagama"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Marawila",
+        "latitude": 7.4130318,
+        "longitude": 79.8309525,
+        "address": "No. 40, Horagalla South, Colombo Road, Marawila"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Matale 2",
+        "latitude": 7.698211,
+        "longitude": 80.660908,
+        "address": "No. 833A, Aluwihare, Matale"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Matara",
+        "latitude": 5.947822,
+        "longitude": 80.5482919,
+        "address": "No. 227, Anagarika Dharmapala Mawatha, Nupe, Matara"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Matara 2",
+        "latitude": 5.947822,
+        "longitude": 80.5482919,
+        "address": "No. 361, Wellewatta, Matara"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Mathugama",
+        "latitude": 6.6894212,
+        "longitude": 80.0944837,
+        "address": "No. 185, Kaluthara Road, Mathugama"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Mattakkuliya",
+        "latitude": 6.9732207,
+        "longitude": 79.8765779,
+        "address": "No. 854, Aluthmawatha Road, Mattakkuliya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Mawanella",
+        "latitude": 7.2537948,
+        "longitude": 80.4429786,
+        "address": "No. 185, New Kandy Road, Mawanella"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Mawaramandiya",
+        "latitude": 6.9873334,
+        "longitude": 79.976166,
+        "address": "No. 475, Udupila Road, Mawaramandiya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Minuwangoda",
+        "latitude": 7.169096,
+        "longitude": 79.9478585,
+        "address": "No. 28, Veyangoda Road, Minuwangoda"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Miriswatta",
+        "latitude": 7.2264737,
+        "longitude": 79.9114712,
+        "address": "No. 3, Miriswatta, Gampaha"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Moratuwa 3",
+        "latitude": 6.7746821,
+        "longitude": 79.8826095,
+        "address": "No. 16, St Peters Road, Moratuwa"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Mulleriyawa",
+        "latitude": 6.9360192,
+        "longitude": 79.9257199,
+        "address": "No. 42D, Hospital Road, Angoda"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Nalluruwa",
+        "latitude": 6.7124814,
+        "longitude": 79.9045725,
+        "address": "No. 735, Galle Road, Nalluruwa, Panadura"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Nawala",
+        "latitude": 6.9095041,
+        "longitude": 79.8962176,
+        "address": "No. 459, Nawala Road, Rajagiriya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Negombo 2",
+        "latitude": 7.2094282,
+        "longitude": 79.833117,
+        "address": "No. 339, Kimbulapitiya Road, Negombo"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Negombo Telwatta",
+        "latitude": 7.1825305,
+        "longitude": 79.8604856,
+        "address": "No. 175, Negombo Road, Negombo"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Panadura 2",
+        "latitude": 6.719826,
+        "longitude": 79.9075542,
+        "address": "No. 161, Galle Road, Walana, Panadura"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Panadura 3",
+        "latitude": 6.7124814,
+        "longitude": 79.9045725,
+        "address": "No. 267, Horana Road, Wekada, Panadura"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Piliyandala",
+        "latitude": 6.799951,
+        "longitude": 79.9231171,
+        "address": "No. 242, Colombo Road, Miriswatta, Piliyandala"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Piliyandala 2",
+        "latitude": 6.799951,
+        "longitude": 79.9231171,
+        "address": "No. 118/1A, Maharagama Road, Mawittara, Piliyandala"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Pitakotte",
+        "latitude": 6.8840744,
+        "longitude": 79.9020482,
+        "address": "No. 216 A, Thalawathugoda Road, Pitakotte"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Pittugala",
+        "latitude": 6.8571844,
+        "longitude": 79.9548253,
+        "address": "No. 296, Kaduwela Road, Pittugala, Malambe"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Puttalam",
+        "latitude": 8.0310165,
+        "longitude": 79.8288439,
+        "address": "No. 89, Kurunegala Road, Puttalam"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Rathnapura",
+        "latitude": 6.6861013,
+        "longitude": 80.4079243,
+        "address": "No. 09, Panadura Road, Moragahayata, Rathnapura"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Raththanapitiya",
+        "latitude": 6.8481579,
+        "longitude": 79.8979501,
+        "address": "No. 235, Horana Road, Raththanapitiya, Boralesgamuwa"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Seeduwa",
+        "latitude": 7.1306288,
+        "longitude": 79.8782394,
+        "address": "No. 253, Negombo Road, Bandarawaththa, Seeduwa"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Shangrila",
+        "latitude": 6.9276299,
+        "longitude": 79.8449318,
+        "address": "One Galle Face Mall, Colombo"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Sinharmulla",
+        "latitude": 6.9501246,
+        "longitude": 79.9172715,
+        "address": "No. 356, Biyagama Road, Gonawala, Kelaniya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Talahena",
+        "latitude": 6.9084311,
+        "longitude": 79.9445669,
+        "address": "No. 427, Kaduwela Road, Thalahena"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Tangalle",
+        "latitude": 6.0192331,
+        "longitude": 80.7906722,
+        "address": "No. 281, Matara Road, Tangalle"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Thalawathugoda 3",
+        "latitude": 6.8790077,
+        "longitude": 79.9218458,
+        "address": "No. 572/5, Thalawathugoda Road, Madiwela"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Thihariya",
+        "latitude": 7.1330857,
+        "longitude": 80.0790607,
+        "address": "No. 120, Kandy Road, Thihariya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Tyre Junction",
+        "latitude": 6.9501246,
+        "longitude": 79.9172715,
+        "address": "No. 498, Kandy Road, Dalugama, Kelaniya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Vidyalaya Junction",
+        "latitude": 6.8464397,
+        "longitude": 79.9486254,
+        "address": "No. 4, Hokandara Road, Kalalgoda, Pannipitiya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Wellampitiya",
+        "latitude": 6.9394803,
+        "longitude": 79.8918509,
+        "address": "No. 230, Avissawella Road, Wellampitiya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Wennappuwa",
+        "latitude": 7.3426407,
+        "longitude": 79.8413079,
+        "address": "No. 28A, Chilaw Road, Wennappuwa"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kirillawala",
+        "latitude": 7.0466157,
+        "longitude": 79.9910345,
+        "address": "No. 89, Kandy Road, Pahala Imbulgoda"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Wadduwa",
+        "latitude": 6.6639728,
+        "longitude": 79.9305102,
+        "address": "No. 520, Galle Road, Wadduwa"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Dalupotha",
+        "latitude": 7.2094282,
+        "longitude": 79.833117,
+        "address": "No. 555, Chilaw Road, Negombo"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kurunegala 2",
+        "latitude": 7.4818319,
+        "longitude": 80.3607165,
+        "address": "No. 41, Bauddhaloka Mawatha, Kurunegala"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Akuregoda",
+        "latitude": 6.8943744,
+        "longitude": 79.9524354,
+        "address": "No. 244, Pothuarawa Road, Akuregoda"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Aluthgama",
+        "latitude": 6.4326494,
+        "longitude": 79.9988986,
+        "address": "Kaluwamodara, Galle Road, Aluthgama"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Borella",
+        "latitude": 6.913654,
+        "longitude": 79.8829451,
+        "address": "No. 85, Cotta Road, Borella"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Galle",
+        "latitude": 6.0324353,
+        "longitude": 80.2169779,
+        "address": "No. 46, Colombo Road, Kaluwella, Galle"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Gampaha 2",
+        "latitude": 7.0911057,
+        "longitude": 79.9970708,
+        "address": "No. 125, Colombo Road, Gampaha"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Godagama",
+        "latitude": 6.8412384,
+        "longitude": 80.0034457,
+        "address": "No. 551, Highlevel Road, Homagama"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Homagama",
+        "latitude": 6.8464397,
+        "longitude": 79.9486254,
+        "address": "No. 375/10A, Highlevel Road, Makumbura, Pannipitiya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Horana",
+        "latitude": 6.716647,
+        "longitude": 80.0619529,
+        "address": "No. 233, Rathnapura Road, Horana"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kerawalapitiya",
+        "latitude": 6.9898705,
+        "longitude": 79.8927094,
+        "address": "No. 315, Handala Road, Wattala"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kesbewa",
+        "latitude": 6.7957403,
+        "longitude": 79.940848,
+        "address": "No. 220/1, Bandaragama Road, Kesbewa"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kiribathgoda",
+        "latitude": 6.9776942,
+        "longitude": 79.9287813,
+        "address": "No. 94, Makola Road, Kiribathgoda"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kiribathgoda 2",
+        "latitude": 6.9859952,
+        "longitude": 79.9347866,
+        "address": "No. 197, Kandy Road, Kiribathgoda"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kohuwala",
+        "latitude": 6.8670544,
+        "longitude": 79.8847353,
+        "address": "No. 135, Dutugemunu Mawatha, Kohuwala"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kohuwala 2",
+        "latitude": 6.8670544,
+        "longitude": 79.8847353,
+        "address": "No. 71, Sunethradevi Road, Kohuwala"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kotahena",
+        "latitude": 6.9491554,
+        "longitude": 79.8627016,
+        "address": "No. 01, Bonjean Road, Colombo 13"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kottawa 2",
+        "latitude": 6.841167,
+        "longitude": 79.9649852,
+        "address": "No. 191, Horana Road, Kottawa"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Kottawa 3",
+        "latitude": 6.8457582,
+        "longitude": 79.9714632,
+        "address": "No. 139, Athurugiriya Road, Kottawa"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Liberty Plaza 2",
+        "latitude": 6.9388614,
+        "longitude": 79.8542005,
+        "address": "No. 250/B/02, Liberty Plaza, R A De Mel Mawatha, Colombo 03"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Maharagama 2",
+        "latitude": 6.8472783,
+        "longitude": 79.9266082,
+        "address": "No. 184, Dehiwala Road, Maharagama"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Makola",
+        "latitude": 6.9753802,
+        "longitude": 79.9529056,
+        "address": "No. 106, Makola North, Makola"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Marine Drive",
+        "latitude": 6.9388614,
+        "longitude": 79.8542005,
+        "address": "No. 35, Upatissa Road, Bambalapitiya, Colombo 04"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Moratuwa Mall",
+        "latitude": 6.7746821,
+        "longitude": 79.8826095,
+        "address": "No. 340, K-Zone, Lakshapathiya, Moratuwa"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Mount Lavinia",
+        "latitude": 6.8316956,
+        "longitude": 79.8625921,
+        "address": "No. 388/A, Galle Road, Mount Lavinia"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Pannipitiya",
+        "latitude": 6.8464397,
+        "longitude": 79.9486254,
+        "address": "No. 361, Highlevel Road, Pannipitiya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Ragama",
+        "latitude": 7.0263493,
+        "longitude": 79.9236484,
+        "address": "No. 968, Mahabage Road, Ragama"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Rajagiriya",
+        "latitude": 6.9095041,
+        "longitude": 79.8962176,
+        "address": "No. 475, Sri Jayawardenapura Road, Rajagiriya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Rajagiriya 2",
+        "latitude": 6.9095041,
+        "longitude": 79.8962176,
+        "address": "No. 522, Kotte Road, Rajagiriya"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Rathmalana",
+        "latitude": 6.8722141,
+        "longitude": 79.899045,
+        "address": "No. 413, Galle Road, Rathmalana"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Stanley TMW - Nugegoda",
+        "latitude": 6.8699688,
+        "longitude": 79.8882835,
+        "address": "No. 225, Stanly Thilakarathna Mawatha, Nugegoda"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Thalawathugoda",
+        "latitude": 6.8771754,
+        "longitude": 79.9282462,
+        "address": "No. 531, Capital Mall, Madiwela Road, Thalawathugoda"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Thalawathugoda 2",
+        "latitude": 6.8746305,
+        "longitude": 79.9366539,
+        "address": "No. 158, Pannipitiya Road, Thalawathugoda"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Thimbirigasyaya",
+        "latitude": 6.9388614,
+        "longitude": 79.8542005,
+        "address": "No. 407, Thimbirigasyaya Road, Colombo 05"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Union Place",
+        "latitude": 6.9201212,
+        "longitude": 79.8461345,
+        "address": "No. 199, Union Place, Colombo 2"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Wattala 2",
+        "latitude": 6.9898705,
+        "longitude": 79.8927094,
+        "address": "No. 384, Negombo Road, Wattala"
+    },
+    {
+        "store_chain": "Keells",
+        "branch_name": "Keells Wijerama",
+        "latitude": 6.8699688,
+        "longitude": 79.8882835,
+        "address": "No. 4 & 6, Soratha Mawatha, Nugegoda"
+    }
+]
