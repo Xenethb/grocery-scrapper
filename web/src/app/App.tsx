@@ -21,24 +21,22 @@ export default function App() {
   const [isLocating, setIsLocating] = useState(false);
   const [nearestBranches, setNearestBranches] = useState<any>(null);
 
-  // --- 1. Modern 2026 Autocomplete Logic (Places API New) ---
+  // --- 1. Modern 2026 Autocomplete Logic ---
   useEffect(() => {
     const getSuggestions = async () => {
-      // Don't search if input is short or we already picked a location
       if (addressInput.length < 3 || userCoords) {
         setSuggestions([]);
         return;
       }
 
       try {
-        // Import the NEW Places library (Google 2025+ Standard)
         const { AutocompleteSuggestion, AutocompleteSessionToken } = 
           await (window as any).google.maps.importLibrary("places");
 
         const token = new AutocompleteSessionToken();
         const request = {
           input: addressInput,
-          includedRegionCodes: ["lk"], // Strict to Sri Lanka
+          includedRegionCodes: ["lk"],
           sessionToken: token,
         };
 
@@ -53,9 +51,63 @@ export default function App() {
     return () => clearTimeout(delay);
   }, [addressInput, userCoords]);
 
-  // --- 2. Handle Selection and Distance Calculation ---
+  // --- 2. Live Google Search Logic (Fixed Method Names) ---
+  const calculateNearestStores = async (lat: number, lng: number) => {
+    setIsLocating(true); // Start loading state
+    try {
+      const { Place } = await (window as any).google.maps.importLibrary("places");
+
+      const findClosestGoogleStore = async (chainName: string): Promise<StoreLocation | null> => {
+        const center = new (window as any).google.maps.LatLng(lat, lng);
+
+        // searchByText is the correct 2026 method for brand-name searches
+        const request = {
+          textQuery: chainName,
+          fields: ["displayName", "location", "formattedAddress"],
+          locationBias: { center: center, radius: 2000 }, // Search within 2km bias
+          maxResultCount: 1,
+        };
+
+        const { places } = await Place.searchByText(request);
+
+        if (places && places.length > 0) {
+          const store = places[0];
+          const sLat = store.location.lat();
+          const sLng = store.location.lng();
+          
+          return {
+            logo: chainName[0].toUpperCase(),
+            name: chainName,
+            branch: store.displayName || chainName,
+            address: store.formattedAddress || "Sri Lanka",
+            distance: calculateDistance(lat, lng, sLat, sLng),
+          };
+        }
+        return null;
+      };
+
+      // Query Google for all branches in parallel
+      const [keells, glomark, cargills] = await Promise.all([
+        findClosestGoogleStore("Keells Super"),
+        findClosestGoogleStore("Glomark"),
+        findClosestGoogleStore("Cargills Food City"),
+      ]);
+
+      setNearestBranches({
+        keells: keells || { name: "Keells", branch: "Not Found", distance: 0, logo: "K", address: "" },
+        glomark: glomark || { name: "Glomark", branch: "Not Found", distance: 0, logo: "G", address: "" },
+        cargills: cargills || { name: "Cargills", branch: "Not Found", distance: 0, logo: "C", address: "" },
+      });
+
+    } catch (error) {
+      console.error("Google API Search Error:", error);
+    } finally {
+      setIsLocating(false); // End loading state
+    }
+  };
+
+  // --- 3. Handle Selection ---
   const handleSelect = async (suggestion: any) => {
-    setIsLocating(true);
     const placePrediction = suggestion.placePrediction;
     setAddressInput(placePrediction.text.text);
     setSuggestions([]);
@@ -64,7 +116,6 @@ export default function App() {
       const { Place } = await (window as any).google.maps.importLibrary("places");
       const myPlace = new Place({ id: placePrediction.placeId });
       
-      // Fetch precise Lat/Lng for 382 Hokandara etc.
       await myPlace.fetchFields({ fields: ["location", "displayName"] });
 
       const lat = myPlace.location.lat();
@@ -73,45 +124,21 @@ export default function App() {
       setUserCoords({ lat, lng });
       setDisplayLocation(myPlace.displayName || placePrediction.text.text.split(',')[0]);
       
+      // Immediately calculate the stores from the API
       await calculateNearestStores(lat, lng);
     } catch (error) {
       console.error("Place selection error:", error);
-    } finally {
-      setIsLocating(false);
     }
   };
 
-  const calculateNearestStores = async (lat: number, lng: number) => {
-    const { data: allStores } = await supabase.from('store_locations').select('*');
-    if (allStores) {
-      const findClosest = (chain: string): StoreLocation => {
-        return allStores
-          .filter(s => s.store_chain.toLowerCase() === chain.toLowerCase())
-          .map(s => ({
-            logo: chain[0].toUpperCase(),
-            name: s.store_chain,
-            branch: s.branch_name,
-            address: s.address || "Sri Lanka",
-            distance: calculateDistance(lat, lng, s.latitude, s.longitude)
-          }))
-          .sort((a, b) => a.distance - b.distance)[0];
-      };
-
-      setNearestBranches({
-        keells: findClosest('Keells'),
-        glomark: findClosest('Glomark'),
-        cargills: findClosest('Cargills')
-      });
-    }
-  };
-
-  // --- 3. Product Search Logic ---
+  // --- 4. Product Search Logic ---
   const handleSearch = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!searchQuery.trim() || !userCoords) return;
     
     setHasSearched(true);
     setIsLoading(true);
+    setSelectedProduct(null); // Clear previous selection to avoid UI confusion
 
     const { data } = await supabase
       .from('products')
@@ -164,21 +191,15 @@ export default function App() {
             <AnimatePresence>
               {suggestions.length > 0 && (
                 <motion.ul 
-                  initial={{ opacity: 0, y: -10 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0 }}
+                  initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
                   className="absolute top-[110%] left-0 w-full bg-white border border-gray-200 rounded-xl shadow-2xl overflow-hidden z-[60]"
                 >
                   {suggestions.map((s, i) => (
-                    <li 
-                      key={i}
-                      onClick={() => handleSelect(s)}
+                    <li key={i} onClick={() => handleSelect(s)}
                       className="px-4 py-3 hover:bg-green-50 cursor-pointer flex items-start gap-3 border-b border-gray-50 last:border-none"
                     >
                       <Navigation className="w-4 h-4 text-gray-400 mt-1" />
-                      <div className="text-[13px] text-gray-700 leading-tight">
-                        {s.placePrediction.text.text}
-                      </div>
+                      <div className="text-[13px] text-gray-700 leading-tight">{s.placePrediction.text.text}</div>
                     </li>
                   ))}
                 </motion.ul>
@@ -226,24 +247,27 @@ export default function App() {
                 searchQuery={searchQuery}
               />
               
-              {selectedProduct && nearestBranches ? (
-                <PriceAnalysis
-                  product={selectedProduct}
-                  storeLocations={nearestBranches}
-                  location={displayLocation}
-                />
-              ) : (
-                <div className="h-[400px] border-2 border-dashed border-gray-200 rounded-3xl flex flex-col items-center justify-center text-gray-400">
-                  {isLocating ? (
-                    <div className="flex flex-col items-center">
-                      <Loader2 className="w-10 h-10 animate-spin mb-4 text-green-500" />
-                      <p className="font-medium text-gray-600">Google is calculating exact distances...</p>
-                    </div>
-                  ) : (
-                    <p>Select a product to compare store prices</p>
-                  )}
-                </div>
-              )}
+              <div className="min-h-[400px]">
+                {/* Fixed the detail showing logic here */}
+                {selectedProduct && nearestBranches ? (
+                  <PriceAnalysis
+                    product={selectedProduct}
+                    storeLocations={nearestBranches}
+                    location={displayLocation}
+                  />
+                ) : (
+                  <div className="h-full border-2 border-dashed border-gray-200 rounded-3xl flex flex-col items-center justify-center text-gray-400 p-12">
+                    {isLocating ? (
+                      <div className="flex flex-col items-center">
+                        <Loader2 className="w-10 h-10 animate-spin mb-4 text-green-500" />
+                        <p className="font-medium text-gray-600 text-center">Google is calculating exact distances...</p>
+                      </div>
+                    ) : (
+                      <p className="text-center">Select a product to compare store prices</p>
+                    )}
+                  </div>
+                )}
+              </div>
             </div>
           </motion.div>
         )}

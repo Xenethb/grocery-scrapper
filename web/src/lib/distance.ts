@@ -11,6 +11,6 @@ export function calculateDistance(lat1: number, lon1: number, lat2: number, lon2
   const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
   const d = R * c; 
 
-  // If the distance is less than 100 meters, return 0.1km minimum
-  return d < 0.1 ? 0.1 : parseFloat(d.toFixed(2));
+  // If the distance is very short (like 37m), show it exactly (0.04)
+  return parseFloat(d.toFixed(2));
 }
